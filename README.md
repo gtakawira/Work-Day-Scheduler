@@ -3,7 +3,7 @@
 Description: A scheduler that stores the data when the page closed. The hour blocks background adjust based on the current time. 
 
 
-Deployed site link: https://gtakawira.github.io/
+Deployed site link: https://gtakawira.github.io/Work-Day-Scheduler/
 
 
 <img src="img.png" alt="example of scheduler"/>
